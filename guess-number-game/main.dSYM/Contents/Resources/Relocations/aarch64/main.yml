@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anisul_islam/Desktop/c-programming-projects/guess-number-game/main'
+relocations:     []
+...
