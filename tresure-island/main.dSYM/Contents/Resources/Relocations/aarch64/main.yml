@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/anisul_islam/Desktop/treasure-island/main'
+binary-path:     '/Users/anisul_islam/Desktop/c_program/c-programming-projects/tresure-island/main'
 relocations:     []
 ...
